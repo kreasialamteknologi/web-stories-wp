@@ -18,7 +18,9 @@
  */
 import { default as sample } from './sampleSticker';
 import { default as beautyHeart } from './beautyHeart';
+import { default as cooking3Tomato } from './cooking3Tomato';
 export default {
   sample,
   beautyHeart,
+  cooking3Tomato,
 };
