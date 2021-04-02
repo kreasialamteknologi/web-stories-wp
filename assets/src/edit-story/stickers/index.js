@@ -18,9 +18,17 @@
  */
 import { default as sample } from './sampleSticker';
 import { default as beautyHeart } from './beautyHeart';
+import { default as cooking2Radish } from './cooking2Radish';
 import { default as cooking3Tomato } from './cooking3Tomato';
+import { default as cooking4Artichoke } from './cooking4Artichoke';
+import { default as cooking4Carrot } from './cooking4Carrot';
+import { default as cooking4Radish } from './cooking4Radish';
 export default {
   sample,
   beautyHeart,
+  cooking2Radish,
   cooking3Tomato,
+  cooking4Artichoke,
+  cooking4Carrot,
+  cooking4Radish,
 };
