@@ -18,7 +18,23 @@
  */
 import { default as sample } from './sampleSticker';
 import { default as beautyHeart } from './beautyHeart';
+import { default as diyFacebookIcon } from './diyFacebookIcon';
+import { default as diyInstagramIcon } from './diyInstagramIcon';
+import { default as diyOrangeCross } from './diyOrangeCross';
+import { default as diyOrangeDot } from './diyOrangeDot';
+import { default as diyPlus } from './diyPlus';
+import { default as diyRightArrow } from './diyRightArrow';
+import { default as diyTwitterIcon } from './diyTwitterIcon';
+import { default as diyYoutubeIcon } from './diyYoutubeIcon';
 export default {
   sample,
   beautyHeart,
+  diyFacebookIcon,
+  diyInstagramIcon,
+  diyOrangeCross,
+  diyOrangeDot,
+  diyPlus,
+  diyRightArrow,
+  diyTwitterIcon,
+  diyYoutubeIcon,
 };
